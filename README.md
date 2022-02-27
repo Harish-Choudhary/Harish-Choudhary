@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harish-Choudhary
-- 👀 I’m interested in Computers and Networks
+- 👀 I’m interested in Computer Networks, Web Development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on fields like web development, database management and data structures
 - 📫 You can mail me at harishchoudhary605@gmail.com
